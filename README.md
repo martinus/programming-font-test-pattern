@@ -7,4 +7,4 @@ This test pattern can be used to check if a programming font's letters are clear
     THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
     0123456789 &-+@ for (int i=0; i<=j; ++i) {}
 
-To check ligatures, see  [Fira Code's showcases](https://github.com/tonsky/FiraCode/blob/master/showcases/showcases.txt)  
+To check ligatures, see  [Fira Code's showcases](https://github.com/tonsky/FiraCode/blob/master/extras/showcases.txt)  
